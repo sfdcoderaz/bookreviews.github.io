@@ -1,0 +1,78 @@
+body {
+    background-color:#89cff0;
+}
+h1 {
+    margin: 0;
+    text-align: center;
+     color: #FFFFFF;
+    text-transform: uppercase;
+    background-color:#005C09;
+    width: 100%;
+    height: 10.1%;
+}
+
+h2.reports {
+    text-align: center;
+    margin-top: 120;
+}
+a {
+    top: 2500px;
+}
+
+p.reports {
+ margin-top: 5%;
+    text-align: center;
+}
+
+
+
+
+.navbar ul.mainmenu {
+    position: absolute;
+    width: 80%;
+    
+    text-align: center;
+    
+    left: 0;
+    top: 70;
+
+    list-style-type: none;
+    background-color:#005C09;
+}
+
+.navbar li.mainmenu a {
+    background-color:#556b2f;
+    margin-top: 4px;
+    text-decoration: none;
+    
+    text-align:center;
+    color: white;
+    font-size: 16px;
+    float: left;
+    
+    width:9.55%;
+    height: 10%;
+    
+
+    padding-right: 0px;
+    margin-left: 2px;
+    
+    border-radius:6px 6px 0px 0px;
+}
+
+.navbar li a:active {
+    background: white;
+}
+
+.navbar li a:hover {
+    padding-bottom: 4px;
+    margin-top: 0px;
+}
+
+.navbar li a.selected {
+    background:#89cff0;
+}
+
+form {
+    float: right;
+}
